@@ -1,8 +1,8 @@
 {
-  "name": "katsubox",
+  "name": "express",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/dethMastery/katsuBox.git",
+  "repository": "https://github.com/dethMastery/express.git",
   "author": "Suphakit P. <me@suphakit.net>",
   "license": "MIT",
   "scripts": {

@@ -1,4 +1,4 @@
-function pageRun() {
+function pageRun(app, root) {
 
 }
 
